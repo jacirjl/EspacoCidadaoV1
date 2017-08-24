@@ -30,6 +30,6 @@ public class MainActivity extends Activity {
                 startActivity(new Intent(MainActivity.this, SemECs.class));
             }
         });
-        //teste 
+        //test
     }
 }
