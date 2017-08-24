@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Espaço Cidadão</string>
+    <string name="title_activity_ativos">Ativos</string>
+    <string name="title_activity_sem_ecs">Sem ECs</string>
+    <string name="Versão">Versão 1.0 - 21/08/2017</string>
+</resources>
