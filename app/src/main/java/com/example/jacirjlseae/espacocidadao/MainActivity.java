@@ -30,11 +30,6 @@ public class MainActivity extends Activity {
                 startActivity(new Intent(MainActivity.this, SemECs.class));
             }
         });
-        botaoAtivos.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
 
-            }
-        });
     }
 }
